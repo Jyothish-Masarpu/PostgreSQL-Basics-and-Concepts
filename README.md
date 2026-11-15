@@ -1,6 +1,6 @@
 # PostgreSQL Basics and Concepts
 
-A collection of PostgreSQL concepts, commands, operators and built-in functions explained in simple English with examples.
+A collection of PostgreSQL concepts, commands, operators and built-in functions.
 
 The purpose of this repository is to understand SQL concepts and learn when and how to use them.
 
