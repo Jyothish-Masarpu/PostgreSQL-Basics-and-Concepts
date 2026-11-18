@@ -1438,6 +1438,9 @@ FROM cd.bookings;
 
 It calculates the booking count separately for each facility.
 
+## NTILE() 
+NTILE() is a window function that divides rows into a specified number of approximately equal-sized groups (buckets).
+
 ---
 
 # 17. Common Table Expressions
